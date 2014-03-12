@@ -1,6 +1,8 @@
 apache_paco Cookbook
 =========================
-Install for apache using paco to CentOS
+Install for apache using paco to CentOS  
+VagrantのCentOS環境にApacheをソースコードよりインストールし、pacoによる管理を行う。
+ソールファイルも合わせてローカルに保存しておく。
 
 PreRequirement
 -----
